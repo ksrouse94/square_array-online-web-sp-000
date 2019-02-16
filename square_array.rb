@@ -3,5 +3,4 @@ def square_array(array)
     squares = []
     squares << num*num
   end  
-  return squares
 end
